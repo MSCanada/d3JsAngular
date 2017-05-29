@@ -47,3 +47,6 @@ The following sofware is required when using this project.
 + [NPM](https://www.npmjs.com/) >2.5
 + [Sass](http://sass-lang.com/) >3.4
 
+References:
+D3.js in Action by Elijah Meeks
+Interactive Data Visualization by Scott Murray
